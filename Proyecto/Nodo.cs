@@ -10,7 +10,7 @@
     }
 }
 
-//Hola profe buen día, le comparto el proytecto de la lista doblemente enlazada que pidió, la verdad usé ChatGPT para ayudarme a entender mejor el concepto y la implementación, lo usé mas que nada como un maestro
+//Hola profe buen día, le comparto el proyecto de la lista doblemente enlazada que pidió, la verdad usé ChatGPT para ayudarme a entender mejor el concepto y la implementación, lo usé mas que nada como un maestro
 //Le comparto de igual manera el link de los chats para que vea cuales fueron los prompts que le di y como fui aprendiendo poquito a poquito, muchas gracias!! Si me falta algo hagamelo saber por favor
 
 //Link de los chats con ChatGPT: 
